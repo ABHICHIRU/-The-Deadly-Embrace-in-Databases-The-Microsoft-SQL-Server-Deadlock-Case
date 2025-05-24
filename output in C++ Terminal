@@ -1,0 +1,10 @@
+OUTPUT OF CODE : 
+
+[INFO] Transaction completed successfully on attempt 1
+[WARNING] Transaction rolled back due to error on attempt 1
+[SQL ERROR] State: 40001, Message: Transaction (Process ID 55) was deadlocked..., Native Error: 1205
+[RETRY] Retrying transaction...
+[INFO] Transaction completed successfully on attempt 2
+Execution complete. Check SQL Server logs if deadlock occurred.
+
+
